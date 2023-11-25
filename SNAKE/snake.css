@@ -1,0 +1,16 @@
+
+h1{
+
+    Font-family: Copperplate, Copperplate Gothic Light, fantasy;
+    background-color: white;
+    border-radius: 50px;
+    text-align: center;
+}
+body{
+    background-image: url("snake.jpg");
+    background-repeat: none;
+    color: green;
+    text-align: center;
+    
+}
+
